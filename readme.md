@@ -7,8 +7,8 @@ This repository contains all the source code, tasks, and course flow. The source
 I hope you like this effort ❤️ and show your support 🤝. You can do the following:
 
 - Give a ⭐ to this repository.
-- [Subscribe to tapaScript English Channel.](https://youtube.com/@tapasadhikary)
-- [Subscribe to tapaScript Bangla Channel.](https:/youtube.com/@tapascript-bangla)
+- [Subscribe to tapaScript English Channel.](https://youtube.com/@tapasadhikary?sub_confirmation=1)
+- [Subscribe to tapaScript Bangla Channel.](https://youtube.com/@tapascript-bangla?sub_confirmation=1)
 
 Many Thanks to all the supporters 🫶
 

@@ -1,4 +1,18 @@
-## JavaScript Array Crash Course
+# JavaScript Array Master Course 🔥
+
+Welcome to the JavaScript Array Master Course!!!
+
+This repository contains all the source code, tasks, and course flow. The source code is in the `index.js` file, and the tasks are in the `task.md` file.
+
+I hope you like this effort ❤️ and show your support 🤝. You can do the following:
+
+- Give a ⭐ to this repository.
+- [Subscribe to tapaScript English Channel.](https://youtube.com/@tapasadhikary)
+- [Subscribe to tapaScript Bangla Channel.](https:/youtube.com/@tapascript-bangla)
+
+Many Thanks to all the supporters 🫶
+
+## Course Flow
 
 -   [x] Introduction
 -   [x] What is an Array in JavaScript?

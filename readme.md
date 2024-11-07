@@ -2,7 +2,7 @@
 
 Welcome to the JavaScript Array Master Course!!!
 
-This repository contains all the source code, tasks, and course flow. The source code is in the `index.js` file, and the tasks are in the `task.md` file.
+This repository contains all the source code, tasks, and course flow. The source code is in the [`index.js`](./index.js) file, and the tasks are in the [`task.md`](./task.md) file.
 
 I hope you like this effort ❤️ and show your support 🤝. 
 

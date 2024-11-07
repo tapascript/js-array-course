@@ -13,7 +13,7 @@ This file contains the tasks that you need to perform to practise the concepts l
 - [ ] **T-005**: Add one element at the front and the end of an array.
 - [ ] **T-006**: Remove an element from the front and the end of an array.
 - [ ] **T-007**: Create an array containing the name of your favourite foods(10 foods). Destructure the 6th food element from the array using destructuring.
-- [ ] **T-008**: Take out the last 8 food items from the above array using the Array destructuring.
+- [ ] **T-008**: Take out the last 8 food items from the above array using the Array destructuring. Hint: rest parameter.
 - [ ] **T-009**: Clone an Array(Shallow cloning)
 - [ ] **T-010**: Empty an array using its length property
 - [ ] **T-011**: Create an array of 10 elements(number 1 to 10). Resize the array to length 6 once you find the number 5 in that array. Hint: Use `for-loop`.

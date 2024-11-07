@@ -14,7 +14,16 @@ You can do the following:
 
 Many Thanks to all the supporters 🫶
 
-## Course Flow
+## 📹 Course Videos
+The course is available in Bangla and English(Coming Soon).
+
+### 🟢 Bangla Course
+Access the course in Bangla from here: [JavaScript Array Master Course](https://www.youtube.com/watch?v=cnClUIjNvGw&list=PLRFcjW6Dq28m62Ph9no5nUUU57dNGP_OJ)
+
+### 🟠 English Course
+COMING SOON. This course is being planned to be part of the upcoming super series `30 Days of JavaScript` on the [tapaScript English Channel](https://youtube.com/@tapasadhikary?sub_confirmation=1). Subscribe, turn the notification ON, and stay tumed.
+
+## 📚 Course Flow
 
 -   [x] Introduction
 -   [x] What is an Array in JavaScript?

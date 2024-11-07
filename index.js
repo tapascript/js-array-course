@@ -159,6 +159,6 @@
 {
   const ages = [21, 12, 73, 41, 67];
   Object.defineProperty(ages, "length", { writable: false });
-  ages[5] = 6; // TypeError: Cannot assign to read only property 'length' of object '[object Array]'
-  ages.push(5); // // TypeError: Cannot assign to read only property 'length' of object '[object Array]'
+  ages[5] = 6; 
+  ages.push(5); 
 }

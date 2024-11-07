@@ -1,0 +1,16 @@
+h1 {
+    font-size: x-large;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: medium;
+    padding: 10px;
+    background-color: #ebebeb;
+    border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}

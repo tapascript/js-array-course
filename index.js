@@ -162,3 +162,212 @@
   ages[5] = 6; 
   ages.push(5); 
 }
+
+// The contact() method
+{
+  const first = [1, 2, 3];
+  const second = [4, 5, 6];
+  
+  const merged = first.concat(second);
+  
+  console.log(merged); // [1, 2, 3, 4, 5, 6]
+  console.log(first); // [1, 2, 3]
+  console.log(second); // [4, 5, 6]
+}
+
+// The join() method
+{
+  const emotions = ['🙂', '😍', '🙄', '😟'];
+
+  const joined = emotions.join();
+  console.log(joined); // "🙂,😍,🙄,😟"
+
+  const joined = emotions.join('<=>');
+  console.log(joined); // "🙂<=>😍<=>🙄<=>😟"
+
+  [].join() // returns ""
+}
+
+// The fill() method
+{
+  const colors = ['red', 'blue', 'green'];
+
+  colors.fill('pink');
+  console.log(colors); // ["pink", "pink", "pink"]
+
+  const colors = ['red', 'blue', 'green'];
+
+  colors.fill('pink', 1,3); // ["red", "pink", "pink"]
+}
+
+// The includes() array method
+{
+  const names = ['tom', 'alex', 'bob', 'john'];
+
+  names.includes('tom'); // returns true
+  names.includes('july'); // returns false
+}
+
+// The indexOf() array method
+{
+  const names = ['tom', 'alex', 'bob', 'john'];
+
+  names.indexOf('alex'); // returns 1
+  names.indexOf('rob'); // returns -1
+
+
+  const names = ['tom', 'alex', 'bob', 'tom'];
+
+  names.indexOf('tom'); // returns 0
+  names.lastIndexOf('tom'); // returns 3
+}
+
+// The reverse() array method
+{
+  const names = ['tom', 'alex', 'bob'];
+
+  names.reverse(); // returns ["bob", "alex", "tom"]
+}
+
+// The sort() array method
+
+{
+  let artists = [
+    'John White Abbott', 
+    'Leonardo da Vinci', 
+    'Charles Aubry', 
+    'Anna Atkins', 
+    'Barent Avercamp'
+  ];
+
+  let sorted = artists.sort();
+  
+  console.log('Sort the artist names', sorted);
+
+  console.log(artists === sorted); // returns true
+
+    // A compare function
+  function (a, b) {
+      if (a > b) {
+        return -1;
+      }
+      if (a < b) {
+        return 1;
+      }
+      // a must be equal to b
+      return 0;
+   }
+
+  function (a,b) {
+   return a === b ? 0 : a > b ? -1 : 1;
+  }
+
+  artists.sort(function (a, b) {
+     return a === b ? 0 : a > b ? -1 : 1;
+  });
+  
+  console.log('Sort the artist names(Descending)', artists);
+
+  // Sorting Numbers
+  let ages = [2, 1000, 10, 3, 23, 12, 30, 21];
+
+  ages.sort();
+  console.log(ages);
+}
+
+// The splice() array method
+{
+  const names = ['tom', 'alex', 'bob'];
+
+  names.splice(1, 0, 'zack');
+  
+  console.log(names); // ["tom", "zack", "alex", "bob"]
+
+
+  const names = ['tom', 'alex', 'bob'];
+
+  const deleted = names.splice(2, 1, 'zack');
+  
+  console.log(deleted); // ["bob"]
+  console.log(names); // ["tom", "alex", "zack"]
+}
+
+// The at() method
+{
+  const junkFoodILove = ['🥖', '🍔', '🍟', '🍕', '🌭', '🥪', '🌮', '🍿'];
+
+  junkFoodILove.at(0); // 🥖
+  junkFoodILove.at(3); // 🍕
+  junkFoodILove.at(-1); // 🍿
+  junkFoodILove.at(-5); // 🍕
+  junkFoodILove.at(-8); // 🥖
+  junkFoodILove.at(10); // undefined
+}
+
+// The flat() method
+{
+  const arr1 = [0, 1, 2, [3, 4]];
+
+  console.log(arr1.flat());
+  
+  const arr2 = [0, 1, [2, [3, [4, 5]]]];
+  console.log(arr2.flat());
+  console.log(arr2.flat(2));
+  console.log(arr2.flat(Infinity));
+}
+
+// The copyWithin() method
+{
+  const array = [1, 2, 3, 4, 5, 6, 7];
+  array.copyWithin(0, 3, 6)
+
+  const array = [1, 2, 3, 4, 5, 6, 7];
+  array.copyWithin(0, 4)
+}
+
+// The toSorted() method
+{
+  const months = ["Mar", "Jan", "Feb", "Dec"];
+  const sortedMonths = months.toSorted();
+  console.log(sortedMonths); // ['Dec', 'Feb', 'Jan', 'Mar']
+  console.log(months); // ['Mar', 'Jan', 'Feb', 'Dec']
+}
+
+// The toReversed() method
+{
+  const items = [1, 2, 3];
+  console.log(items); // [1, 2, 3]
+  
+  const reversedItems = items.toReversed();
+  console.log(reversedItems); // [3, 2, 1]
+  console.log(items); // [1, 2, 3]
+}
+
+// The toSpliced() method
+{
+  const months = ["Jan", "Mar", "Apr", "May"];
+  const months2 = months.toSpliced(1, 0, "Feb");
+}
+
+// The with() method
+{
+  const numbers = [1, 2, 3, 4, 5];
+
+  numbers[2] = 6;
+  console.log(numbers); // [1, 2, 6, 4, 5];
+
+  const newArray = numbers.with(2,6);
+
+  console.log(numbers); // Unchanged => [1, 2, 3, 4, 5];
+  console.log(newArray); // Changed(A new copy) => [1, 2, 6, 4, 5];
+
+  numbers[-2] = 8;
+  console.log(numbers); // [1, 2, 3, 4, 5, -2: 8]
+
+  const numbers = [1, 2, 3, 4, 5];
+  const anotherArray = numbers.with(-2, 8);
+  console.log(anotherArray); // [1, 2, 3, 8, 5]
+
+  anotherArray.at(-2); // 8
+}
+

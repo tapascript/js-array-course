@@ -44,18 +44,18 @@ COMING SOON. This course is being planned to be part of the upcoming super serie
     -   [x] How to How to Merge Arrays?
 -   [X] The length property
 -   [ ] JavaScript Array Methods
-    -   [ ] How to Create, Remove, Update, and Access Arrays in JavaScript?
-        -   [ ] The concat() array method
-        -   [ ] The join() array method
-        -   [ ] The fill() array method
-        -   [ ] The includes() array method
-        -   [ ] The indexOf() array method
-        -   [ ] The reverse() array method
-        -   [ ] The sort() array method
-        -   [ ] The splice() array method
-        -   [ ] The at() Method
-        -   [ ] The copyWithin() Method
-        -   [ ] The flat() Method
+    -   [X] How to Create, Remove, Update, and Access Arrays in JavaScript?
+        -   [X] The concat() array method
+        -   [X] The join() array method
+        -   [X] The fill() array method
+        -   [X] The includes() array method
+        -   [X] The indexOf() array method
+        -   [X] The reverse() array method
+        -   [X] The sort() array method
+        -   [X] The splice() array method
+        -   [X] The at() Method
+        -   [X] The copyWithin() Method
+        -   [X] The flat() Method
     -   [ ] Static Array Methods in JavaScript
         -   [ ] The Array.from() array method
         -   [ ] The Array.fromAsync() array method
@@ -75,8 +75,8 @@ COMING SOON. This course is being planned to be part of the upcoming super serie
         -   [ ] The every() array method
         -   [ ] The entries() method
         -   [ ] The value() method
-    -   [ ] Immutability
-        -   [ ] The toReversed() method
-        -   [ ] The toSorted() method
-        -   [ ] The toSpliced() method
-        -   [ ] The with() method
+    -   [X] Immutability
+        -   [X] The toReversed() method
+        -   [X] The toSorted() method
+        -   [X] The toSpliced() method
+        -   [X] The with() method

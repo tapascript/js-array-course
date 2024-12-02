@@ -25,4 +25,4 @@ This file contains the tasks that you need to perform to practise the concepts l
 - [ ] **T-017**: Create an Array of alphanumeric strings. Sort the elements in both ascending and descending orders. You must be doing this in an immutable way such that the source array never gets modified.
 - [ ] **T-018**: Can you give examples of sparse and dense arrays?
 - [ ] **T-019**: Give a practical usages of the .fill() method
-- [ ] **T-020**: How to convert and array to a string?
+- [ ] **T-020**: How to convert an array to a string?

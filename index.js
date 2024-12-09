@@ -388,14 +388,37 @@
   const c = Array.of(2, false, 'test', {'name': 'Alex'});
 }
 
+// Array Like
+{
+  const array_like = {
+      0: 'A',
+      1: 'B',
+      2: 'C',
+      length : 3
+  }
+  
+  array_like[1]
+  
+  Array.from(array_like)
 
-const array_like = {
-    0: 'A',
-    1: 'B',
-    2: 'C',
-    length : 3
+  document.getElementsByTagName('li')
+
+  function checkArgs() {
+    console.log(arguments.length);// logs 2.
+  }
 }
 
-array_like[1]
+// Array.from()
+{
+  const collection = Array.from(document.getElementsByTagName('li'))
+}
 
-Array.from(array_like)
+// Array.fromAsync()
+{
+    Array.fromAsync({
+    length: 3,
+    0: Promise.resolve('tapaScript'),
+    1: Promise.resolve('Google'),
+    2: Promise.resolve('Apple'),
+  }).then((array) => console.log(array));
+}

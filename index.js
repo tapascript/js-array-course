@@ -371,3 +371,31 @@
   anotherArray.at(-2); // 8
 }
 
+// The isArray() method
+{
+  const arr = [1,2,3,4];
+  Array.isArray(arr);
+  Array.isArray({});
+  Array.isArray(1);
+  Array.isArray([]);
+}
+
+
+// The Array.of() method
+{
+  const a = new Array(2,3,4);
+  const b = [4,5,6];
+  const c = Array.of(2, false, 'test', {'name': 'Alex'});
+}
+
+
+const array_like = {
+    0: 'A',
+    1: 'B',
+    2: 'C',
+    length : 3
+}
+
+array_like[1]
+
+Array.from(array_like)

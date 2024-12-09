@@ -57,6 +57,7 @@ COMING SOON. This course is being planned to be part of the upcoming super serie
         -   [X] The copyWithin() Method
         -   [X] The flat() Method
     -   [ ] Static Array Methods in JavaScript
+        -   [ ] The Array-Like
         -   [ ] The Array.from() array method
         -   [ ] The Array.fromAsync() array method
         -   [ ] The Array.of() array method

@@ -56,11 +56,11 @@ COMING SOON. This course is being planned to be part of the upcoming super serie
         -   [X] The at() Method
         -   [X] The copyWithin() Method
         -   [X] The flat() Method
-    -   [ ] Static Array Methods in JavaScript
-        -   [ ] The Array-Like
-        -   [ ] The Array.from() array method
-        -   [ ] The Array.fromAsync() array method
-        -   [ ] The Array.of() array method
+    -   [X] Static Array Methods in JavaScript
+        -   [X] The Array-Like
+        -   [X] The Array.from() array method
+        -   [X] The Array.fromAsync() array method
+        -   [X] The Array.of() array method
     -   [ ] Array Iterator Methods in JavaScript
         -   [ ] The filter() array method
         -   [ ] The map() array method

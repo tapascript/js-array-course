@@ -61,21 +61,21 @@ COMING SOON. This course is being planned to be part of the upcoming super serie
         -   [X] The Array.from() array method
         -   [X] The Array.fromAsync() array method
         -   [X] The Array.of() array method
-    -   [ ] Array Iterator Methods in JavaScript
-        -   [ ] The filter() array method
-        -   [ ] The map() array method
-        -   [ ] The flatMap() array method
-        -   [ ] The reduce() array method
-        -   [ ] The reduceRight() array method
-        -   [ ] The some() array method
-        -   [ ] The find() array method
-        -   [ ] The findIndex() array method
-        -   [ ] The findLast() array method
-        -   [ ] The findLastIndex() array method
-        -   [ ] The forEach() array method
-        -   [ ] The every() array method
-        -   [ ] The entries() method
-        -   [ ] The value() method
+    -   [X] Array Iterator Methods in JavaScript
+        -   [X] The filter() array method
+        -   [X] The map() array method
+        -   [X] The flatMap() array method
+        -   [X] The reduce() array method
+        -   [X] The reduceRight() array method
+        -   [X] The some() array method
+        -   [X] The find() array method
+        -   [X] The findIndex() array method
+        -   [X] The findLast() array method
+        -   [X] The findLastIndex() array method
+        -   [X] The forEach() array method
+        -   [X] The every() array method
+        -   [X] The entries() method
+        -   [X] The values() method
     -   [X] Immutability
         -   [X] The toReversed() method
         -   [X] The toSorted() method

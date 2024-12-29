@@ -2,6 +2,16 @@
 
 This file contains the tasks that you need to perform to practise the concepts learned from the course. Please spend some time practising; otherwise, all the time you spend learning something will be a complete waste.
 
+I hope you like this effort ❤️ and show your support 🤝. 
+
+You can do the following:
+
+- Give a ⭐ to this repository.
+- [Subscribe to tapaScript English Channel.](https://youtube.com/@tapasadhikary?sub_confirmation=1)
+- [Subscribe to tapaScript Bangla Channel.](https://youtube.com/@tapascript-bangla?sub_confirmation=1)
+
+Many Thanks to all the supporters 🫶
+
 ## Important Note
 **`© 2024 tapaScript`: Feel free to use the content of the file to solve questions, learn things. Sharing content of this file outside of this repository requires permission from the [author](https://github.com/atapas). Also the content from this repository must not be used for any commercial digital or printed product without the author's consent. Please reach out to [Tapas Adhikary](https://www.linkedin.com/in/tapasadhikary/) for any questions.**
 

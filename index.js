@@ -575,7 +575,7 @@ let customers = [
   const isThereWindowShopper = customers.every((customer) => {
       return (customer.purchased.length === 0);
   })
-  console.log('[every] Is there a window shopper?', isThereWindowShopper);
+  console.log('[every] Everyone a window shopper?', isThereWindowShopper);
 }
 
 // entries() method

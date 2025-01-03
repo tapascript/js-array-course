@@ -12,6 +12,8 @@ You can do the following:
 
 Many Thanks to all the supporters 🫶
 
+[![Stargazers repo roster for tapascript/js-array-course](https://reporoster.com/stars/tapascript/js-array-course)](https://github.com/atapas/tapascript/js-array-course)
+
 ## Important Note
 **`© 2024 tapaScript`: Feel free to use the content of the file to solve questions, learn things. Sharing content of this file outside of this repository requires permission from the [author](https://github.com/atapas). Also the content from this repository must not be used for any commercial digital or printed product without the author's consent. Please reach out to [Tapas Adhikary](https://www.linkedin.com/in/tapasadhikary/) for any questions.**
 

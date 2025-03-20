@@ -23,7 +23,7 @@ The course is available in Bangla and English(Coming Soon).
 Access the course in Bangla from here: [JavaScript Array Master Course](https://www.youtube.com/watch?v=cnClUIjNvGw&list=PLRFcjW6Dq28m62Ph9no5nUUU57dNGP_OJ)
 
 ### 🟠 English Course
-COMING SOON. This course is being planned to be part of the upcoming super series `30 Days of JavaScript` on the [tapaScript English Channel](https://youtube.com/@tapasadhikary?sub_confirmation=1). Subscribe, turn the notification ON, and stay tumed.
+COMING SOON. This course is being planned to be part of the upcoming super series `40 Days of JavaScript` on the [tapaScript English Channel](https://youtube.com/@tapasadhikary?sub_confirmation=1). Subscribe, turn the notification ON, and stay tuned.
 
 ## 📚 Course Flow
 
@@ -43,7 +43,7 @@ COMING SOON. This course is being planned to be part of the upcoming super serie
 -   [x] How to Use the Spread Operator in JS?
 -   [x] Destructuring Use Cases in JavaScript
     -   [x] How to Swap Values with Destructuring?
-    -   [x] How to How to Merge Arrays?
+    -   [x] How to Merge Arrays?
 -   [X] The length property
 -   [ ] JavaScript Array Methods
     -   [X] How to Create, Remove, Update, and Access Arrays in JavaScript?

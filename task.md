@@ -87,7 +87,7 @@ Many Thanks to all the supporters 🫶
 - [ ] **T-033**: Find the last employee in the "HR" department.
 - [ ] **T-034**: Verify if all employees belong to a department listed in the departments array.
 - [ ] **T-035**: Log each employee's name and department name to the console.
-- [ ] **T-036**: Extract all employee skill names into a single array.
+- [ ] **T-036**: Extract all employee names into a single array.
 - [ ] **T-037**: Increment each employee's salary by 10%
 - [ ] **T-038**: Assume each employee can have multiple skills. Create an array of employee skills and flatten them. Example: [{name: "Alice", skills: ["Excel", "Management"]}, ...].
 - [ ] **T-039**: Find the total salary of all employees working in the "Engineering" department.

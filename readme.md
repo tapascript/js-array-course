@@ -83,3 +83,4 @@ COMING SOON. This course is being planned to be part of the upcoming super serie
         -   [X] The toSorted() method
         -   [X] The toSpliced() method
         -   [X] The with() method
+-   [X] Tasks and Quizzes With Interview Questions

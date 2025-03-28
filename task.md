@@ -84,7 +84,7 @@ Many Thanks to all the supporters 🫶
 - [ ] **T-030**: Find the last employee in the "HR" department.
 - [ ] **T-031**: Find the first employee in the "Marketing" department.
 - [ ] **T-032**: Check if all employees earn more than 4000.
-- [ ] **T-033**: Find the last employee in the "HR" department.
+- [ ] **T-033**: Find the first employee in the "Sales" department.
 - [ ] **T-034**: Verify if all employees belong to a department listed in the departments array.
 - [ ] **T-035**: Log each employee's name and department name to the console.
 - [ ] **T-036**: Extract all employee names into a single array.

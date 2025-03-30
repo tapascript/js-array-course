@@ -17,13 +17,13 @@ Many Thanks to all the supporters 🫶
 [![Stargazers repo roster for tapascript/js-array-course](https://reporoster.com/stars/tapascript/js-array-course)](https://github.com/atapas/tapascript/js-array-course)
 
 ## 📹 Course Videos
-The course is available in Bangla and English(Coming Soon).
+The course is available in Bangla and English.
 
 ### 🟢 Bangla Course
 Access the course in Bangla from here: [JavaScript Array Master Course](https://www.youtube.com/watch?v=cnClUIjNvGw&list=PLRFcjW6Dq28m62Ph9no5nUUU57dNGP_OJ)
 
 ### 🟠 English Course
-COMING SOON. This course is being planned to be part of the upcoming super series `40 Days of JavaScript` on the [tapaScript English Channel](https://youtube.com/@tapasadhikary?sub_confirmation=1). Subscribe, turn the notification ON, and stay tuned.
+Access the [FULL COURSE FROM HERE](https://www.youtube.com/watch?v=t05NguKFKo0). Please follow the series `40 Days of JavaScript` on the [tapaScript English Channel](https://youtube.com/@tapasadhikary?sub_confirmation=1). Subscribe, turn the notification ON.
 
 ## 📚 Course Flow
 
